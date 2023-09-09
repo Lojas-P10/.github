@@ -1,12 +1,17 @@
-## Hi there 👋
+# Lojas P10
+Projeto Integrador do Curso Técnico em Informática para Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
-<!--
+Professores: [Eduardo da Silva](https://github.com/eduardo-da-silva), [Marco André Mendes](https://github.com/marrcandre) e [Alann Perini](https://github.com/AlannKPerini).
 
-**Here are some ideas to get you started:**
+Equipe:
+- [Marcelo Henrique Harbs](https://github.com/MarceloHarbs)
+- [Geovana Sophia Horodeski](https://github.com/horodeski)
+- [Gregory Valmir Ribeiro](https://github.com/eugreg)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Links do projeto:
+
+-  [Documentação](https://github.com/MarceloHarbs/P10Documentacao)
+-  [FrontEnd](https://github.com/horodeski/P10FrontEnd)
+-  [BackEnd](https://github.com/eugreg/P10Backend)
+-  [Mobile](https://github.com/horodeski/P10Mobile)   
+-  [Administração](https://github.com/horodeski/P10Administracao)
