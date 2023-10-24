@@ -1,5 +1,5 @@
 # Lojas P10
-Projeto Integrador do Curso Técnico em Informática para Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
+Trabalho de conclusão do Curso Técnico em Informática para Internet Integrado ao Ensino Médio do IFC - Campus Araquari.
 
 Professores: [Eduardo da Silva](https://github.com/eduardo-da-silva), [Marco André Mendes](https://github.com/marrcandre) e [Alann Perini](https://github.com/AlannKPerini).
 
